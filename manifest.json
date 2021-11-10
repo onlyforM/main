@@ -1,0 +1,20 @@
+{
+    "name": "Halloween",
+    "short_name": "Halloween",
+    "start_url": ".",
+    "theme_color": "#2ECC71",
+    "background_color": "#82E0AA",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src":"halo.png",
+            "sizes": "512x512",
+            "type":"image/png"
+        }
+    ]
+}
